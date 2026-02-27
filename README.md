@@ -3,7 +3,7 @@ The Sealed King is a 3D third person action game focused on melee combat, where 
 
 ## Behavior Tree
 
-<img width="1880" height="791" alt="image" src="https://github.com/user-attachments/assets/b3db8a83-4f86-4960-9211-159b5d1413b4" />
+<img width="2546" height="1203" alt="Kopie von BT_Knight" src="https://github.com/user-attachments/assets/9872448c-0afe-4581-8b0d-714ca9dffa31" />
 
 BT Knight 
 ## EQS
