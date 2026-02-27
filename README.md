@@ -10,3 +10,7 @@ The Sealed King is a 3D third person action game focused on melee combat, where 
 
 [Melee Enemy Base Class](https://blueprintue.com/blueprint/_e8cozgg/)
 
+[Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/)
+
+[King Enemy Base class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/)
+
