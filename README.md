@@ -7,7 +7,10 @@ The Sealed King is a 3D third person action game focused on melee combat, where 
 
 This snappshot shows a typical behavior tree that all enemy types are using with minor and major adjustments depending on the enemy's type.
 On the left side is the physical condition check, which always has the highest priority to ensure, for instance, that an enemy immediately reacts when being hit.
-
+In the middle is the attack behavior, which varies heavely depending on the enemy's type. 
+On the right side is the strafe behavior, which is active, when enemy is not attacking but still in combat. 
+In this case, the enemy usually tries to look for positions that are not too close to  the player, but still on screen.
+To ensure this behavior, I created a custom EQS test, which increases the location's score, the closer it is to the screen center.
 ## EQS
 [Custom EQS Test](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp) to make enemies prefer positions on screen 
 
