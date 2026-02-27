@@ -5,3 +5,5 @@ The Sealed King is a 3D third person action game focused on melee combat, where 
 
 ## EQS
 [Custom EQS Test](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp) to make enemies prefer positions on screen 
+
+[Test](https://blueprintue.com/blueprint/cy7gb_sy/)
