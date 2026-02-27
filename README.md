@@ -6,7 +6,7 @@ The Sealed King is a 3D third person action game focused on melee combat, where 
 <img width="2546" height="1203" alt="Kopie von BT_Knight" src="https://github.com/user-attachments/assets/9872448c-0afe-4581-8b0d-714ca9dffa31" />
 
 This snappshot shows a typical behavior tree that all enemy types are using with minor and major adjustments depending on the enemy's type.
-On the left side is the physical condition check, which always has the highest priority to ensure that an enemy immediately reacts when being hit for instance.
+On the left side is the physical condition check, which always has the highest priority to ensure, for instance, that an enemy immediately reacts when being hit.
 
 ## EQS
 [Custom EQS Test](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp) to make enemies prefer positions on screen 
