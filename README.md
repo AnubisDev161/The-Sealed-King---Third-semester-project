@@ -26,5 +26,7 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 
 [Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/)
 
+## Code Snippets 
+(Links leed to [BlueprintUE.com](https://blueprintue.com/))
 
 
