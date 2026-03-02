@@ -15,7 +15,6 @@ behavior trees and [custom eqs tests](https://github.com/AnubisDev161/The-Sealed
 ## About the project
 The game was developed using the Unreal game engine 5.7. We used primiraly Blueprints and some C++ for specific tasks.
 
-
 ## Code Snippets - Enemy types 
 (Links leed to [BlueprintUE.com](https://blueprintue.com/))
 
