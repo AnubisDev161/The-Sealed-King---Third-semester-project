@@ -17,14 +17,15 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 
 ## Code Snippets - Enemy types 
 (Links leed to [BlueprintUE.com](https://blueprintue.com/))
-[Enemy Base Class](https://blueprintue.com/blueprint/cy7gb_sy/)
 
-[Melee Enemy Base Class](https://blueprintue.com/blueprint/_e8cozgg/)
+[Enemy Base Class](https://blueprintue.com/blueprint/cy7gb_sy/) - Base class that defines the behavior and abilities that all enemies inherit from
 
-[Spearman Enemy Base Calss](https://blueprintue.com/blueprint/bh4axh-y/)
+[Melee Enemy Base Class](https://blueprintue.com/blueprint/_e8cozgg/) - Basic knight that keeps a certain distance to the player and then suddenly attacks
 
-[King Enemy Base class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/)
+[Spearman Enemy Base Calss](https://blueprintue.com/blueprint/bh4axh-y/) - Tries to protect archers if there are any in range
 
-[Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/)
+[King Enemy Base class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/) - Boss that teleports instead of walking
+
+[Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/) - Archer that tries to stay in the background while attacking the player
 
 
