@@ -7,11 +7,11 @@ The Sealed King was developed in 10 weeks as a student project at the S4G School
 [Play it on Itch.io!](https://s4g.itch.io/the-sealed-king)
 
 ## Responsibilities
-My main focus in this project was the implementation of the enemy AI and everything related to that, such as the enemy base class, behavior trees and custom eqs tests.
+My main focus in this project was the implementation of the enemy AI and everything related to that, such as the enemy base class, behavior trees and custom eqs tests. I also worked closely with our designers on the combat design and came up with the stamina bar and the knockback ability to enhance our combat.
 I was also responsible for the implementation of the king enemy for the final boss fight.
 
 ## About the project
-The game was developed using the Unreal engine 5.7. We used primiraly Blueprints and some C++ for specific tasks.
+The game was developed using the Unreal game engine 5.7. We used primiraly Blueprints and some C++ for specific tasks.
 [Custom EQS Test](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp) to make enemies prefer positions on screen 
 
 [Enemy Base Class](https://blueprintue.com/blueprint/cy7gb_sy/)
