@@ -13,7 +13,7 @@ behavior trees and [custom eqs tests](https://github.com/AnubisDev161/The-Sealed
 
 ## About the project
 The game was developed using the Unreal game engine 5.7. We used primiraly Blueprints and some C++ for specific tasks.
-[Custom EQS Test](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp) to make enemies prefer positions on screen 
+
 
 [Enemy Base Class](https://blueprintue.com/blueprint/cy7gb_sy/)
 
