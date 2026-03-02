@@ -5,7 +5,7 @@ The Sealed King is a 3D third person action game focused on melee combat, where 
 
 The Sealed King was developed in 10 weeks as a student project at the [S4G School for Games](https://www.school4games.net/).
 
-[Play it on Itch.io!](https://s4g.itch.io/the-sealed-king)
+Play it on [Itch.io!](https://s4g.itch.io/the-sealed-king)
 
 ## Responsibilities
 My main focus in this project was the implementation of the enemy AI and everything related to that, such as the 
