@@ -7,7 +7,9 @@ The Sealed King was developed in 10 weeks as a student project at the S4G School
 [Play it on Itch.io!](https://s4g.itch.io/the-sealed-king)
 
 ## Responsibilities
-My main focus in this project was the implementation of the enemy AI and everything related to that, such as the enemy base class, behavior trees and custom eqs tests. I also worked closely with our designers on the combat design and created the stamina bar and the knockback ability to enhance our combat.
+My main focus in this project was the implementation of the enemy AI and everything related to that, such as the enemy base class, 
+behavior trees and custom eqs tests. I also worked closely with our designers on the combat design and created the stamina bar 
+and the knockback ability to enhance our combat.
 I was also responsible for the implementation of the king enemy for the final boss fight.
 
 ## About the project
