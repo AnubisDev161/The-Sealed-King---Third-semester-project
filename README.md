@@ -8,8 +8,7 @@ The Sealed King was developed in 10 weeks as a student project at the S4G School
 
 ## Responsibilities
 My main focus in this project was the implementation of the enemy AI and everything related to that, such as the enemy base class, 
-behavior trees and custom eqs tests. I worked closely with our designers on the combat and its design, notably on the stamina bar and the [knockback ability](https://blueprintue.com/blueprint/ndy-lkfc/).  
-I was also responsible for the implementation of the king enemy for the final boss fight.
+behavior trees and custom eqs tests. I worked closely with our designers on the combat and its design, notably on the stamina bar and the [knockback ability](https://blueprintue.com/blueprint/ndy-lkfc/). I was also responsible for the implementation of the king enemy for the final boss fight.
 
 ## About the project
 The game was developed using the Unreal game engine 5.7. We used primiraly Blueprints and some C++ for specific tasks.
