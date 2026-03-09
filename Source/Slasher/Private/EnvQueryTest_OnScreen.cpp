@@ -24,16 +24,16 @@ void UEnvQueryTest_OnScreen::RunTest(FEnvQueryInstance& queryInstance) const
 	FVector2D viewportSize;
 
 	queryInstance.World->GetGameViewport()->GetViewportSize(viewportSize);
-	float viewportCenterX = viewportSize.X / 2;
-	float viewportSizeY = viewportSize.Y / 2;
+	const float viewportCenterX = viewportSize.X / 2;
+	const float viewportSizeY = viewportSize.Y / 2;
 
 	UObject* owner = queryInstance.Owner.Get();
 
 	FloatValueMin.BindData(owner, queryInstance.QueryID);
-	float minThreasholdValue = FloatValueMin.GetValue();
+	const float minThreasholdValue = FloatValueMin.GetValue();
 
 	FloatValueMax.BindData(owner, queryInstance.QueryID);
-	float maxThreasholdValue = FloatValueMax.GetValue();
+	const float maxThreasholdValue = FloatValueMax.GetValue();
 
 	FVector screenCenterWorldDirection;
 	FVector screenCenterWorldLocation;
