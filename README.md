@@ -43,7 +43,7 @@ as you can see on the picture.
 
 <img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
 
-On this picure you can clearly see how the scoring is increaesing, the closer the positions are to the center.
+On this picture you can clearly see how the scoring is increaesing, the closer the positions are to the center.
 
 Resource: [God of War GDC Talk](https://www.youtube.com/watch?v=hE5tWF-Ou2k&t=2663s)
 
