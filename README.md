@@ -45,5 +45,9 @@ direction from the screen center to the possible position and increases the scor
 <img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
 <img width="2545" height="1219" alt="image" src="https://github.com/user-attachments/assets/880fdfc2-3539-4836-86de-3b73b720242f" />
 
+
+<img width="2543" height="1129" alt="image" src="https://github.com/user-attachments/assets/e4c1b027-ddd3-4c75-9037-c6cfc3f8a3ab" />
+
+
 By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport, 
 as you can see on the picture.
