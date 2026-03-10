@@ -29,6 +29,7 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 [Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/) - Archer that tries to stay in the background while attacking the player
 
 ## Workflow
+<img width="2063" height="1157" alt="image" src="https://github.com/user-attachments/assets/3d0634dc-8e35-4cba-89d0-32ba655f08d4" />
 
 ### The Problem
 From early on in the project we had the problem that groups of enemies that are attacking the player at the same time are very hard to keep track of. 
