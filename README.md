@@ -12,7 +12,7 @@ My main focus in this project was the implementation of the enemy AI and everyth
 [enemy base class](https://blueprintue.com/blueprint/cy7gb_sy/), 
 [behavior trees](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Behavior%20Tree%20Pictures/BT_Knight.png) and [custom EQS tests](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp). I worked closely with our designers on the combat and its design, notably on the stamina bar and the [knockback](https://blueprintue.com/blueprint/ndy-lkfc/) ability. I was also responsible for the implementation of the [king](https://blueprintue.com/blueprint/ax0yrqdb/) enemy for the final boss fight.
 
-## About the project
+## About The Project
 The game was developed using the Unreal game engine 5.7. We used primiraly Blueprints and some C++ for specific tasks.
 
 
