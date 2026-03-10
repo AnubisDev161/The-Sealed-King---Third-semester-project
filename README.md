@@ -45,9 +45,6 @@ as you can see on the picture.
 
 On this picure you can clearly see how the scoring is increaesing, the closer the positions are to the center.
 
-It is important to note, that the scoring is very much effected by run mode that you are using for the EQS test, if you pick a high number like 25%, 
-there gonna be more positions with a higher scoring than with a run mode of 5%.
-Here you can see how to scoring is with a run mode of single best item.
 <img width="498" height="443" alt="image" src="https://github.com/user-attachments/assets/a01f5c8c-8e0d-44c8-af25-629b80b7dea5" />
 
 
