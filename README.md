@@ -47,7 +47,7 @@ On this picure you can clearly see how the scoring is increaesing, the closer th
 
 <img width="498" height="443" alt="image" src="https://github.com/user-attachments/assets/a01f5c8c-8e0d-44c8-af25-629b80b7dea5" />
 
-
+Resource: [God of War GDC Talk](https://www.youtube.com/watch?v=hE5tWF-Ou2k&t=2663s)
 
 ## Code Snippets - Enemy types 
 (Links lead to [BlueprintUE.com](https://blueprintue.com/))
