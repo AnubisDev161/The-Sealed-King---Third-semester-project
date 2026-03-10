@@ -22,9 +22,10 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 
 
 ### The Problem
-<img width="2543" height="1129" alt="image" src="https://github.com/user-attachments/assets/e4c1b027-ddd3-4c75-9037-c6cfc3f8a3ab" />
 From early on in the project we had the problem that groups of enemies that are attacking the player at the same time are very hard to keep track of. 
-If you have 4 enemies that are attacking you from all directions and you can only see those whoe are on screen. That means you're constantly being attacked from behind without being able to react. to solve this problem, 
+If you have 4 enemies that are attacking you from all directions and you can only see those whoe are on screen.
+<img width="2543" height="1129" alt="image" src="https://github.com/user-attachments/assets/e4c1b027-ddd3-4c75-9037-c6cfc3f8a3ab" />
+ That means you're constantly being attacked from behind without being able to react. to solve this problem, 
 we took inspiration from God of War which uses a system to make the enemies stay on screen.
 
 ### The Solution
