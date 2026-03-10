@@ -15,18 +15,7 @@ My main focus in this project was the implementation of the enemy AI and everyth
 ## About the project
 The game was developed using the Unreal game engine 5.7. We used primiraly Blueprints and some C++ for specific tasks.
 
-## Code Snippets - Enemy types 
-(Links lead to [BlueprintUE.com](https://blueprintue.com/))
 
-[Enemy Base Class](https://blueprintue.com/blueprint/cy7gb_sy/) - Base class that defines the behavior and abilities that all enemies inherit from
-
-[Melee Enemy Base Class](https://blueprintue.com/blueprint/_e8cozgg/) - Basic knight that keeps a certain distance to the player and then suddenly attacks
-
-[Spearman Enemy Base Calss](https://blueprintue.com/blueprint/bh4axh-y/) - Tries to protect archers if there are any in range
-
-[King Enemy Base class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/) - Boss that teleports instead of walking
-
-[Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/) - Archer that tries to stay in the background while attacking the player
 
 ## Workflow
 
@@ -47,9 +36,20 @@ direction from the screen center to the possible position and increases the scor
 <img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
 <img width="2545" height="1219" alt="image" src="https://github.com/user-attachments/assets/880fdfc2-3539-4836-86de-3b73b720242f" />
 
-
-
-
-
 By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport, 
 as you can see on the picture.
+
+
+
+## Code Snippets - Enemy types 
+(Links lead to [BlueprintUE.com](https://blueprintue.com/))
+
+[Enemy Base Class](https://blueprintue.com/blueprint/cy7gb_sy/) - Base class that defines the behavior and abilities that all enemies inherit from
+
+[Melee Enemy Base Class](https://blueprintue.com/blueprint/_e8cozgg/) - Basic knight that keeps a certain distance to the player and then suddenly attacks
+
+[Spearman Enemy Base Calss](https://blueprintue.com/blueprint/bh4axh-y/) - Tries to protect archers if there are any in range
+
+[King Enemy Base class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/) - Boss that teleports instead of walking
+
+[Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/) - Archer that tries to stay in the background while attacking the player
