@@ -40,5 +40,5 @@ To create a custom EQS Test in C++.
 This test uses the dot product to compare the normal direction of the screen center with the 
 direction from the screen center to the possible position and increases the scoring the more similar these directions are.
 
-[Video](https://drive.google.com/drive/folders/1X8pclQsFGIHg_35jaMdUcOaPfx3gHh16?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto);
+[Video](https://drive.google.com/file/d/1MKVIdf-pXj9ygoxigJHQeEbphxgQAQnT/view?usp=sharing);
 By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport.
