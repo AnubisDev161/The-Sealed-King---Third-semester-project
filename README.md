@@ -32,7 +32,7 @@ From early on in the project we had the problem that groups of enemies that are 
 ### The Solution
 To solve this problem, we took inspiration from God of War which uses a system to make the enemies stay on screen.
 I re created this in a simple form using the Unreal Envriomental Query System. (EQS) 
-To create a custom EQS Test in C++.
+To create a [custom EQS Test in C++](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp).
 This test uses the dot product to compare the normal direction of the screen center with the 
 direction from the screen center to the possible position and increases the scoring the more similar these directions are.
 
