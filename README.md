@@ -31,7 +31,13 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 ## Workflow
 
 ### The Problem
-From early on in the project we had the problem that groups of enemies that are attacking the player at the same time are very hard to keep track on. 
+From early on in the project we had the problem that groups of enemies that are attacking the player at the same time are very hard to keep track of. 
 If you have 4 enemies that are attacking you from all directions and you can only see those whoe are on screen. That means you're constantly being attacked from behind without being able to react. to solve this problem, 
 we took inspiration from God of War which uses a system to make the enemies stay on screen.
 
+I re created this in a simple form using the Unreal Envriomental Query System. (EQS) 
+To create a custom EQS Test in C++.
+This test uses the dot product to compare the normal direction of the screen center with the 
+direction from the screen center to the possible position and increases the scoring the more similar these directions are.
+
+By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport.
