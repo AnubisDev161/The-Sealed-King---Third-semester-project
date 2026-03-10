@@ -60,4 +60,4 @@ Resource: [God of War GDC Talk](https://www.youtube.com/watch?v=hE5tWF-Ou2k&t=26
 
 [Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/) - Archer that tries to stay in the background while attacking the player
 
-[Knight Behavior Tree](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Behavior%20Tree%20Pictures/BT_Knight.png)
+[Knight Behavior Tree](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Behavior%20Tree%20Pictures/BT_Knight.png) - A typical Behavior tree that shows the basic functionality that all enemies are using with minor and major adjustments depending on the enemy type.
