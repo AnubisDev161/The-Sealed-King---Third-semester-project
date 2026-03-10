@@ -23,7 +23,9 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 
 ### The Problem
 From early on in the project we had the problem that groups of enemies that are attacking the player at the same time are very hard to keep track of. 
+
 <img width="2543" height="1129" alt="image" src="https://github.com/user-attachments/assets/e4c1b027-ddd3-4c75-9037-c6cfc3f8a3ab" />
+
  For example if you have 6 enemies that are attacking you from all directions, you can only see those whoe are on screen.
  That means you're constantly being attacked from behind without being able to react.
 
@@ -33,10 +35,15 @@ I re created this in a simple form using the Unreal Envriomental Query System. (
 To create a custom EQS Test in C++.
 This test uses the dot product to compare the normal direction of the screen center with the 
 direction from the screen center to the possible position and increases the scoring the more similar these directions are.
+
 <img width="2545" height="1219" alt="image" src="https://github.com/user-attachments/assets/880fdfc2-3539-4836-86de-3b73b720242f" />
-<img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
+
 By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport, 
 as you can see on the picture.
+
+<img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
+
+On this picure you can clearly see how to scoring is increaesing, closer the positions are to the center.
 
 
 
