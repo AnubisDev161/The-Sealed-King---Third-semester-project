@@ -31,7 +31,7 @@ From early on in the project we had the problem that groups of enemies that were
 
 ### The Solution
 To solve this problem, we took inspiration from God of War which uses a system to make the enemies stay on screen.
-First I created a simple conceptual prototype in Blueprints to test my idea. Then I recreated this using the Unreal Environmental Query System, or for short EQS, to create a [custom EQS Test in C++.](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp)
+First I created a simple conceptual prototype in Blueprints to test my idea. Then I recreated this using the Unreal Environmental Query System, or for short EQS, to create a [custom EQS Test] in C++.(https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp)
 
 
 <img width="2545" height="1219" alt="image" src="https://github.com/user-attachments/assets/880fdfc2-3539-4836-86de-3b73b720242f" />
