@@ -42,6 +42,7 @@ By doing this, we're creating a simple but effective system that makes enemies p
 as you can see on the picture.
 
 <img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
+
 On this picure you can clearly see how to scoring is increaesing, closer the positions are to the center.
 
 
