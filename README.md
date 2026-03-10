@@ -29,7 +29,7 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 [Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/) - Archer that tries to stay in the background while attacking the player
 
 ## Workflow
-<img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
+
 
 
 ### The Problem
@@ -42,5 +42,6 @@ To create a custom EQS Test in C++.
 This test uses the dot product to compare the normal direction of the screen center with the 
 direction from the screen center to the possible position and increases the scoring the more similar these directions are.
 
-
-By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport.
+<img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
+By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport, 
+as you can see on the picture.
