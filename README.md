@@ -33,6 +33,7 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 
 
 ### The Problem
+<img width="2543" height="1129" alt="image" src="https://github.com/user-attachments/assets/e4c1b027-ddd3-4c75-9037-c6cfc3f8a3ab" />
 From early on in the project we had the problem that groups of enemies that are attacking the player at the same time are very hard to keep track of. 
 If you have 4 enemies that are attacking you from all directions and you can only see those whoe are on screen. That means you're constantly being attacked from behind without being able to react. to solve this problem, 
 we took inspiration from God of War which uses a system to make the enemies stay on screen.
@@ -46,7 +47,7 @@ direction from the screen center to the possible position and increases the scor
 <img width="2545" height="1219" alt="image" src="https://github.com/user-attachments/assets/880fdfc2-3539-4836-86de-3b73b720242f" />
 
 
-<img width="2543" height="1129" alt="image" src="https://github.com/user-attachments/assets/e4c1b027-ddd3-4c75-9037-c6cfc3f8a3ab" />
+
 
 
 By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport, 
