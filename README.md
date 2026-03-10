@@ -43,5 +43,7 @@ This test uses the dot product to compare the normal direction of the screen cen
 direction from the screen center to the possible position and increases the scoring the more similar these directions are.
 
 <img width="2536" height="1233" alt="image" src="https://github.com/user-attachments/assets/45358fa2-03f5-4f40-a6ea-50c5d98f43ac" />
+<img width="2545" height="1219" alt="image" src="https://github.com/user-attachments/assets/880fdfc2-3539-4836-86de-3b73b720242f" />
+
 By doing this, we're creating a simple but effective system that makes enemies prefer positions that are within the viewport, 
 as you can see on the picture.
