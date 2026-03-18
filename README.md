@@ -21,7 +21,7 @@ The game was developed using the Unreal game engine 5.7. We used primiraly Bluep
 
 
 
-### The Problem
+### The Problem :x:
 From early on in the project we had the problem that groups of enemies that were attacking the player at the same time were very hard to keep track of. 
 
 <img width="2543" height="1129" alt="image" src="https://github.com/user-attachments/assets/e4c1b027-ddd3-4c75-9037-c6cfc3f8a3ab" />
@@ -29,7 +29,7 @@ From early on in the project we had the problem that groups of enemies that were
  For example if you have 6 enemies that are attacking you from all directions, you can only see those whoe are on screen.
  That means you're constantly being attacked from behind without being able to react.
 
-### The Solution
+### The Solution :heavy_check_mark:
 To solve this problem, we took inspiration from God of War which uses a system to make the enemies stay on screen.
 First I created a simple conceptual prototype in Blueprints to test my idea. Then I recreated this using the Unreal Environmental Query System, or for short EQS, to create a [custom EQS Test](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp) in C++.
 
