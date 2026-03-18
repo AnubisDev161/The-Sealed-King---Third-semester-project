@@ -56,7 +56,7 @@ Resource: [God of War GDC Talk](https://www.youtube.com/watch?v=hE5tWF-Ou2k&t=26
 
 [Spearman Enemy Base Class](https://blueprintue.com/blueprint/bh4axh-y/) - Tries to protect archers if there are any in range
 
-[King Enemy Base class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/) - Boss that teleports instead of walking
+[King Enemy Base Class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/) - Boss that teleports instead of walking
 
 [Ranged Enemy Base Class](https://blueprintue.com/blueprint/jk738hd8/) - Archer that tries to stay in the background while attacking the player
 
