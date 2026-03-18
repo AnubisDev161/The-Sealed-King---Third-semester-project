@@ -54,7 +54,7 @@ Resource: [God of War GDC Talk](https://www.youtube.com/watch?v=hE5tWF-Ou2k&t=26
 
 [Melee Enemy Base Class](https://blueprintue.com/blueprint/_e8cozgg/) - Basic knight that keeps a certain distance to the player and then suddenly attacks
 
-[Spearman Enemy Base Calss](https://blueprintue.com/blueprint/bh4axh-y/) - Tries to protect archers if there are any in range
+[Spearman Enemy Base Class](https://blueprintue.com/blueprint/bh4axh-y/) - Tries to protect archers if there are any in range
 
 [King Enemy Base class (Boss)](https://blueprintue.com/blueprint/ax0yrqdb/) - Boss that teleports instead of walking
 
