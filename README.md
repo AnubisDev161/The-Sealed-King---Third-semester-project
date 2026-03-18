@@ -1,6 +1,6 @@
 <img width="960" height="300" alt="image" src="https://github.com/user-attachments/assets/940c3041-92f4-4125-afad-2a93efc39426" />
 
-# The-Sealed-King---Third-semester-project
+# THE-SEALED-KING---THIRD-SEMESTER-PROJECT
 The Sealed King is a 3D third person action game focused on melee combat, where you fight through a snow covered castle by using tactics like parry, finish, block, stun and special abilities. Set in a dark/low fantasy world. The goal? Kill the unworthy king!
 
 The Sealed King was developed in 10 weeks as a student project at the [S4G School for Games](https://www.school4games.net/).
@@ -35,7 +35,7 @@ First I created a simple conceptual prototype in Blueprints to test my idea. The
 
 <img width="2545" height="1219" alt="image" src="https://github.com/user-attachments/assets/880fdfc2-3539-4836-86de-3b73b720242f" />
 
-### How it works :grey_question:
+### How does it work :grey_question:
 This test uses the dot product to compare the normal direction of the screen center with the 
 direction from the screen center to the possible position and increases the scoring the more similar these directions are.
 By doing this, I creating a simple but effective system that makes enemies prefer positions that are within the viewport, 
