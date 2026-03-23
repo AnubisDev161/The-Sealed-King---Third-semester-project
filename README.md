@@ -14,7 +14,7 @@ behavior trees and  I worked closely with our designers on the combat and its de
 
 
 ### Main Focus
-- Game AI - Implemented enemy types, such as the [enemy base class](https://blueprintue.com/blueprint/cy7gb_sy/) and the [king Boss](https://blueprintue.com/blueprint/ax0yrqdb/)
+- Game AI - Implemented enemy types, such as the [base enemy](https://blueprintue.com/blueprint/cy7gb_sy/) and the [king Boss](https://blueprintue.com/blueprint/ax0yrqdb/)
 - AI Behavior - Implemented the enemy behavior using Behavior Trees, for example the [Knight Behavior Tree](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Behavior%20Tree%20Pictures/BT_Knight.png)
 - EQS Tests - Implemented a [custom EQS test](https://github.com/AnubisDev161/The-Sealed-King---Third-semester-project/blob/main/Source/Slasher/Private/EnvQueryTest_OnScreen.cpp) in C++.
   
