@@ -1,6 +1,6 @@
 <img width="960" height="300" alt="image" src="https://github.com/user-attachments/assets/940c3041-92f4-4125-afad-2a93efc39426" />
 
-# THE SEALED KING THIRD SEMESTER PROJECT
+# THE SEALED KING - THIRD SEMESTER PROJECT
 The Sealed King is a 3D third person action game focused on melee combat, where you fight through a snow covered castle by using tactics like parry, finish, block, stun and special abilities. Set in a dark/low fantasy world. The goal? Kill the unworthy king!
 
 The Sealed King was developed in 10 weeks as a student project at the [S4G School for Games](https://www.school4games.net/).
